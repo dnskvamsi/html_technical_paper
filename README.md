@@ -175,7 +175,6 @@ Some of the block level elements are:-
 > \<h1>\
 > \<h2>\
 > \<pre>\
-> \<img>\
 > \<li>
 
 To change the display property to block we set the **display:block** property.
